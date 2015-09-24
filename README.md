@@ -1,3 +1,6 @@
+![](images/header.jpg)
+
+
 # Conceptual formulation
 
 The first exercise in the course **"Eingabe-Ausgabe"** was to device an analgogue algorithm.
