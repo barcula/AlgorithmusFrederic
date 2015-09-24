@@ -1,4 +1,4 @@
-![](images/header.jpg)
+
 ![](images/analogheader.jpg)
 
 
@@ -90,6 +90,7 @@ These are the results of the second version executed by ten differnt people:
 
 I was realy satisfied with the results i receved. The algorithm was explicated mostly right and looked like the images i had in mind.
 I could manage that the images do not all look the same but it is still clear that all the people who put the alorithm into execution had the same task.
+![](images/header.jpg)
 
 
 # Resume
