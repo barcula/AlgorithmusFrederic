@@ -143,8 +143,8 @@ Here are some of an endless amount of examples:
 
 
 
-![](images/gl1.png)![](images/gl2.png)![](images/gl3.png)
-![](images/gl4.png)![](images/gl5.png)![](images/gl6.png)
+![](imagesgenerative/gl1.png)![](imagesgenerative/gl2.png)![](imagesgenerative/gl3.png)
+![](imagesgenerative/gl4.png)![](imagesgenerative/gl5.png)![](imagesgenerative/gl6.png)
 
 #Installation
 You need to download processing to put this code into execution https://processing.org/download/
