@@ -6,7 +6,7 @@
 
 
 
-# Conceptual formulation
+#1. Conceptual formulation
 
 The first exercise in the course **"Eingabe-Ausgabe"** was to device an analgogue algorithm.
 It need to be as precise and clear as possible for the people who put it into execution.
@@ -100,8 +100,10 @@ I think it was a very good exercise to practise express myself.
 It was neccesary to think about every single word. *Is this information realy needed or can i remove this?
 Can this sentence be more short and precise? Would i undestand this if i would read the instruction the first time?*
 Keep things simple but not boring is one sentence wich describes this exercise the best in my eyes.
-![](Images/headerdigital.jpg)
-# Conceptual formulation
+
+![](Imagesdigital/headerdigital.jpg)
+
+# 2. Conceptual formulation 
 
 The next steps was it to create a digital version of our analogue algorithm. 
 We were not forced to do it exactly the same but it should have something to do with our first projekt.
